@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanbanfire-a1caf": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-a1caf"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanbanfire-a1caf"
+  }
+}
